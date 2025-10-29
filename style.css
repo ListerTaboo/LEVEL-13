@@ -5,18 +5,6 @@ body {
   padding: 0;
 }
 
-nav {
-  background-color: #085a27;
-  padding: 10px;
-  text-align: center;
-}
-
-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 nav a {
   color: white;
   text-decoration: none;
@@ -65,7 +53,7 @@ button:hover {
 }
 
 nav {
-  background-color: #333;
+  background-color: #085a23;
   padding: 10px;
   display: flex;             /* ხაზზე აყენებს ელემენტებს */
   align-items: center;       /* ვერტიკალურად აყენებს ცენტრში */
